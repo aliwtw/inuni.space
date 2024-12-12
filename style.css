@@ -1,0 +1,31 @@
+html {
+    font-family: monospace;
+}
+
+body{
+    text-align: center;
+}
+
+.main {
+    margin: 50px;
+    padding: 50px;
+    border: dashed black 3px;
+    background-color: #ECE81A;
+}
+
+.main p {
+    font-weight: bolder;
+    font-size: x-large;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border: dashed #ECE81A 3px;
+    text-transform: uppercase;
+}
+
+#copyRight {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+}
